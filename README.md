@@ -1,6 +1,6 @@
 # Context
 -----------
-In this study, we explore different recommandation system for a newspaper magazine.
+In this study, we explore different recommandation systems for a newspaper magazine.
 
 # Tech used
 --------------
